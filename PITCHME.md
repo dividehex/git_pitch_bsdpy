@@ -19,9 +19,10 @@
 
 List of reasons to switch
 <br><br>
+#### Why not continue using Apple Server App?
+<br>
 @fa[arrow-down]
 
-#### Why not continue using Apple Server App?
 +++?image=assets/img/apple_server_app_store.png
 
 ---
