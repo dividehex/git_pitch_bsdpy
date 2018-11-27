@@ -24,6 +24,8 @@ List of reasons to switch
 @fa[arrow-down]
 
 +++?image=assets/img/apple_server_app_store.png
++++?image=assets/img/apple_server_app_store.png
+### GOOD JOB, APPLE!
 
 ---
 @title[Recorded Demo]
