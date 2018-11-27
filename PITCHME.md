@@ -1,6 +1,14 @@
 ---
 @title[Intro]
+
+@snap[north headline]
 ### MacOS disk imaging in the data centers
+@snapend
+
+@snap[south byline]
+Jake Watkins :dividehex
+jwatkins@mozilla.com
+@snapend
 
 ---
 @title[What is BSDP?]
