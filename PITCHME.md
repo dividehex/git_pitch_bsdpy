@@ -25,7 +25,7 @@ List of reasons to switch
 
 +++?image=assets/img/apple_server_app_store.png
 +++?image=assets/img/apple_server_app_store.png
-### GOOD JOB, APPLE!
+### @color[#ff0000](GOOD JOB, APPLE!)
 
 ---
 @title[Recorded Demo]
