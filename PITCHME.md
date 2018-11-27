@@ -17,16 +17,12 @@ jwatkins@mozilla.com
 ### What is BSDP?
 @snapend
 
-@snap[south byline]
-[https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol](https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol)
-@snapend
-
 @snap[west]
 @ul
- - BSDP stands for Boot Service Discovery Protocol
+ - BSDP = Boot Service Discovery Protocol
  - It is an extention to DHCP developed by Apple (ages ago)
  - Allows apple computers to boot over the network similar to PXE booting
- - Utilizes DHCP options 43 "vendor-specific information"
+ - Utilizes DHCP option 43 "vendor-specific information"
  - And option 60 "vendor class identifier
 @ulend
 @snapend
@@ -73,3 +69,14 @@ Demo
 @title[Final]
 
 ### Thank you
+#### References
+[https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol](https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol)
+[https://static.afp548.com/mactips/bootpd.html](https://static.afp548.com/mactips/bootpd.html)
+[https://github.com/mozilla-platform-ops/relops-bsdpy](https://github.com/mozilla-platform-ops/relops-bsdpy)
+[https://github.com/mozilla-platform-ops/pydhcplib](https://github.com/mozilla-platform-ops/pydhcplib)
+[https://github.com/bruienne/bsdpy](https://github.com/bruienne/bsdpy)
+@snap[south byline]
+Jake Watkins :dividehex
+jwatkins@mozilla.com
+@snapend
+
