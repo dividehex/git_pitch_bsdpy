@@ -27,18 +27,11 @@ List of reasons to switch
 +++?image=assets/img/apple_server_app_store.png
 ### @color[#ff0000](GOOD JOB, APPLE!)
 
----?video=https://www.dropbox.com/s/8pccqftxgkou3ac/bsdpy_example.mp4?raw=1
+---
 @title[Recorded Demo]
-
-
-+++
 Demo
 <br>
 ![demo-video](https://player.vimeo.com/video/303137935)
-
-+++
-![demo-video](https://www.dropbox.com/s/8pccqftxgkou3ac/bsdpy_example.mp4?raw=1)
-
 
 ---
 @title[Final]
