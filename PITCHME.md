@@ -74,13 +74,13 @@ Demo
 @snapend
 
 @snap[west list-content-verbose span-100]
-@size[.5em]
 @ul
+@size[.5em](
 - [https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol](https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol)<br>
 - [https://static.afp548.com/mactips/bootpd.html](https://static.afp548.com/mactips/bootpd.html)<br>
 - [https://github.com/mozilla-platform-ops/relops-bsdpy](https://github.com/mozilla-platform-ops/relops-bsdpy)<br>
 - [https://github.com/mozilla-platform-ops/pydhcplib](https://github.com/mozilla-platform-ops/pydhcplib)<br>
-- [https://github.com/bruienne/bsdpy](https://github.com/bruienne/bsdpy)<br>
+- [https://github.com/bruienne/bsdpy](https://github.com/bruienne/bsdpy)<br>)
 @ulend
 @snapend
 
