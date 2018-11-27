@@ -81,11 +81,11 @@ Demo
 - [https://github.com/bruienne/bsdpy](https://github.com/bruienne/bsdpy)<br>
 @snapend
 
-@snap[southi-west]
+@snap[south-west]
 Jake Watkins :dividehex
 @snapend
 
-@snap[southi-east]
+@snap[south-east]
 jwatkins@mozilla.com
 @snapend
 
