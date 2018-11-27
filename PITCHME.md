@@ -36,6 +36,15 @@ List of reasons to switch
 ### @color[#ff0000](GOOD JOB, APPLE!)
 
 ---
+@title[What is Deploystudio]
+What is Deploy Studio?
+
+---
+@title[How it all ties together]
+How it all ties together
+
+
+---
 @title[Recorded Demo]
 Demo
 <br>
