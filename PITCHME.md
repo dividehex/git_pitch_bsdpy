@@ -29,7 +29,7 @@ List of reasons to switch
 
 ---
 @title[Recorded Demo]
-![MP4 Video](https://www.dropbox.com/s/89u4b6igjx1nknm/bsdpy_example.webm?raw=1)
+![MP4 Video](https://www.dropbox.com/s/8pccqftxgkou3ac/bsdpy_example.mp4?raw=1)
 
 
 ---
