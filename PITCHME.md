@@ -13,9 +13,11 @@ jwatkins@mozilla.com
 ---
 @title[What is BSDP?]
 
+@snap[north headline]
 ### What is BSDP?
 BSDP stands for Boot Service Discovery Protocol
-<p>
+@snapend
+
 @snap[west]
 @ul
  - It is an extention to DHCP developed by Apple (ages ago)
