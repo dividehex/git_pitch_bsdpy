@@ -71,11 +71,12 @@ Demo
 ### Thank you
 #### References
 @snap[west]
-@size[.5em]([https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol](https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol))
-[https://static.afp548.com/mactips/bootpd.html](https://static.afp548.com/mactips/bootpd.html)
-[https://github.com/mozilla-platform-ops/relops-bsdpy](https://github.com/mozilla-platform-ops/relops-bsdpy)
-[https://github.com/mozilla-platform-ops/pydhcplib](https://github.com/mozilla-platform-ops/pydhcplib)
-[https://github.com/bruienne/bsdpy](https://github.com/bruienne/bsdpy)
+@size[.5em]
+ - [https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol](https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol)
+ - [https://static.afp548.com/mactips/bootpd.html](https://static.afp548.com/mactips/bootpd.html)
+ - [https://github.com/mozilla-platform-ops/relops-bsdpy](https://github.com/mozilla-platform-ops/relops-bsdpy)
+ - [https://github.com/mozilla-platform-ops/pydhcplib](https://github.com/mozilla-platform-ops/pydhcplib)
+ - [https://github.com/bruienne/bsdpy](https://github.com/bruienne/bsdpy)
 @snapend
 
 @snap[south byline]
