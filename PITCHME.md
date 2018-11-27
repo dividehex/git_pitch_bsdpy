@@ -5,8 +5,11 @@
 ### MacOS disk imaging in the data centers
 @snapend
 
-@snap[south byline]
+@snap[south-west]
 Jake Watkins :dividehex
+@snapend
+
+@snap[south-east]
 jwatkins@mozilla.com
 @snapend
 
