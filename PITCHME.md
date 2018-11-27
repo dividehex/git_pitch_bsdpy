@@ -3,7 +3,7 @@
 ### MacOS disk imaging in the data centers
 
 ---
-@title[What is bsdp?]
+@title[What is BSDP?]
 
 ### What is BSDP?
 
@@ -18,9 +18,10 @@
 @title[Why are we switching to bsdpy?]
 
 List of reasons to switch
+<br><br>
 @fa[arrow-down]
 
-# Why not continue using Apple Server App?
+#### Why not continue using Apple Server App?
 +++?image=assets/img/apple_server_app_store.png
 
 ---
