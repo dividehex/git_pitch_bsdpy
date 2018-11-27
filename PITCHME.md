@@ -48,7 +48,7 @@ List of reasons to switch
 
 +++?image=assets/img/apple_server_app_store.png
 +++?image=assets/img/apple_server_app_store.png
-### @color[#ff0000](GOOD JOB, APPLE!)
+# @color[#ff0000](GOOD JOB, APPLE!)
 
 ---
 @title[What is Deploystudio]
@@ -70,11 +70,14 @@ Demo
 
 ### Thank you
 #### References
-[https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol](https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol)
+@snap[west]
+@size[2.5em]([https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol](https://en.wikipedia.org/wiki/Boot_Service_Discovery_Protocol))
 [https://static.afp548.com/mactips/bootpd.html](https://static.afp548.com/mactips/bootpd.html)
 [https://github.com/mozilla-platform-ops/relops-bsdpy](https://github.com/mozilla-platform-ops/relops-bsdpy)
 [https://github.com/mozilla-platform-ops/pydhcplib](https://github.com/mozilla-platform-ops/pydhcplib)
 [https://github.com/bruienne/bsdpy](https://github.com/bruienne/bsdpy)
+@snapend
+
 @snap[south byline]
 Jake Watkins :dividehex
 jwatkins@mozilla.com
