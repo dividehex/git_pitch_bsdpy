@@ -23,6 +23,7 @@ jwatkins@mozilla.com
 @snap[west]
 @ul
  - BSDP = Boot Service Discovery Protocol
+ - aka Netboot aka Netinstall
  - It is an extention to DHCP developed by Apple (ages ago)
  - Allows apple computers to boot over the network similar to PXE booting
  - Utilizes DHCP option 43 "vendor-specific information"
@@ -82,6 +83,7 @@ jwatkins@mozilla.com
 @snap[east]
 @ul
 - Official Apple application for providing all sorts of server functions to MacOS
+- eg. httpd, mail, etc...
 - Important to us, it provides BSDP service aka Netboot aka Netinstall
 - Downloadable from the App Store...
 - ... for $19.99
@@ -92,15 +94,22 @@ jwatkins@mozilla.com
 +++
 @title[Apple Server App]
 @snap[north headline]
-### Reason to stop using Apple Server App
+### Reason to stop using
+### Apple Server App
 @snapend
 @snap[east]
 @ul
 - Apple only supports the app on the current MacOS version
 - Total blackbox; hacking required to enable logging and difficult to debug
+- It requires MacOS which requires hardware
+- No HA
 - Sometimes it crashes
 - It's an official Apple app so it must have good reviews on the app store, right?!?
 @ulend
+@snapend
+
+@snap[south]
+[https://itunes.apple.com/us/app/os-x-server/id883878097](https://itunes.apple.com/us/app/os-x-server/id883878097)
 @snapend
 
 +++?image=assets/img/apple_server_app_store.png
@@ -110,18 +119,24 @@ jwatkins@mozilla.com
 
 ---
 @title[What is BSDPy?]
+@snap[north headline]
 ### What is BSDP@color[#ff0000](y)?
+@snapend
 
+@snapend
+@snap[east]
+@ul
+- Opensource, python implementation of the BSDP service
+- Can run on linux and is Dockerized
+- Can be HA via ZLB or consul
+- Better logging
+- Better contol of NBI choice logic
+@ulend
+@snapend
 
----
-@title[Why are we switching to bsdpy?]
-
-List of reasons to switch
-<br><br>
-#### Why not continue using Apple Server App?
-<br>
-@fa[arrow-down]
-
+@snap[south]
+[https://github.com/mozilla-platform-ops/relops-bsdpy](https://github.com/mozilla-platform-ops/relops-bsdpy)
+@snapend
 
 ---
 @title[How it all ties together]
@@ -149,6 +164,7 @@ Demo
 - [https://github.com/mozilla-platform-ops/pydhcplib](https://github.com/mozilla-platform-ops/pydhcplib)<br>
 - [https://github.com/bruienne/bsdpy](https://github.com/bruienne/bsdpy)<br>
 - [http://www.deploystudio.com](http://www.deploystudio.com)<br>
+- [https://itunes.apple.com/us/app/os-x-server/id883878097](https://itunes.apple.com/us/app/os-x-server/id883878097)<br>
 @snapend
 
 @snap[south-west]
