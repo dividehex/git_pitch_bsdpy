@@ -51,7 +51,7 @@ jwatkins@mozilla.com
 @ulend
 @snapend
 
-@snap[south]
+@snap[south refline]
 [http://www.deploystudio.com](http://www.deploystudio.com)
 @snapend
 
@@ -94,8 +94,7 @@ jwatkins@mozilla.com
 +++
 @title[Apple Server App]
 @snap[north headline]
-### Reason to stop using
-### Apple Server App
+### Reason to stop using Apple Server App
 @snapend
 @snap[east]
 @ul
@@ -108,7 +107,7 @@ jwatkins@mozilla.com
 @ulend
 @snapend
 
-@snap[south]
+@snap[south refline]
 [https://itunes.apple.com/us/app/os-x-server/id883878097](https://itunes.apple.com/us/app/os-x-server/id883878097)
 @snapend
 
@@ -134,7 +133,7 @@ jwatkins@mozilla.com
 @ulend
 @snapend
 
-@snap[south]
+@snap[south refline]
 [https://github.com/mozilla-platform-ops/relops-bsdpy](https://github.com/mozilla-platform-ops/relops-bsdpy)
 @snapend
 
