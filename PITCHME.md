@@ -126,7 +126,7 @@ jwatkins@mozilla.com
 @ul
 - Opensource, python implementation of the BSDP service
 - Can run on linux and is Dockerized
-- Can be HA via ZLB or consul
+- Can be setup for HA and LB (eg with ZLB or consul)
 - Better logging
 - Better contol of NBI choice logic
 @ulend
