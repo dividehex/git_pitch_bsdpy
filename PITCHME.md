@@ -50,7 +50,7 @@ jwatkins@mozilla.com
 @snapend
 
 @snap[west]
-![Image-Relative](assets/img/ds_logo.jpg)
+![Image-Relative](assets/img/ds_screenshotjpg)
 @snapend
 
 @snap[south doclink]
