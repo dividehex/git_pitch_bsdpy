@@ -46,6 +46,7 @@ jwatkins@mozilla.com
 @ul
 - Server application for image deployment and configuration of MacOS
 - Primarily used to push disk images to Mac Minis
+- ... and provision puppet to start on boot
 - Workflows are highly customizable
 - Can also be used to do standalone firmware upgrades
 @ulend
