@@ -49,13 +49,14 @@ jwatkins@mozilla.com
 @ulend
 @snapend
 
-@snap[east sidebar]
-![Image-Relative](assets/img/ds_screenshot.png)
-@snapend
-
 @snap[south doclink]
 [http://www.deploystudio.com](http://www.deploystudio.com)
 @snapend
+
++++
+@title[Deploystudio Screenshot]
+![Image-Relative](assets/img/ds_screenshot.png)
+
 
 ---
 @title[What is BSDPy?]
