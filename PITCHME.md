@@ -69,6 +69,9 @@ jwatkins@mozilla.com
 - I've had to debug and hack it on more than one occasion
 - There are alternatives but for now it does work
 @ulend
+@snapend
+
+@snap[south-east]
 @fa[arrow-down]
 @snapend
 
@@ -105,6 +108,9 @@ jwatkins@mozilla.com
 - Sometimes it crashes
 - It's an official Apple app so it must have good reviews on the app store, right?!?
 @ulend
+@snapend
+
+@snap[south-east]
 @fa[arrow-down]
 @snapend
 
@@ -144,7 +150,9 @@ jwatkins@mozilla.com
 ### How it all ties together
 @snapend
 
+@snap[south-east]
 @fa[arrow-down]
+@snapend
 
 +++?image=assets/img/mermaid-diagram-20181128124342.png&size=contain&position=center&color=#ffffff
 @title[Sequence Diagram]
