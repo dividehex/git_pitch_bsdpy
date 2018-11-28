@@ -84,7 +84,7 @@ jwatkins@mozilla.com
 @ul
 - Official Apple application for providing all sorts of server functions to MacOS
 - eg. httpd, mail, etc...
-- Important to us, it provides BSDP service aka Netboot aka Netinstall
+- Important to us, it provides BSDP service
 - Downloadable from the App Store...
 - ... for $19.99
 - there are alternatives for providing BSDP service
