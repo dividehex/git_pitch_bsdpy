@@ -1,0 +1,31 @@
+sequenceDiagram
+  participant mm as Mac Mini
+  participant dhcp as DHCP Service
+  participant bsdpy as BSDPy Service
+  participant tftpd as TFTPd Service
+  participant httpd as HTTP Service
+  participant ds as DeployStudio (https)
+
+    note over mm: bless cmd, reboot
+    mm-->>dhcp: dhcp discover
+    dhcp->>mm: dhcp offer
+    mm-->>dhcp: dhcp request
+    dhcp->>mm: dhcp ack
+    mm-->>bsdpy: bsdp inform [list]
+    bsdpy->>mm: bsdp ack [list[
+    mm-->>bsdpy: bsdp inform [select]
+    bsdpy->>mm: bsdp ack [select]
+    note over mm: NBI is now selected
+    mm->>tftpd: tftp GET booter, PlatformSupport.plist, and kernelcache
+    note over mm: kernel booting
+    mm->>httpd: http GET Netinstall.dmg
+    note over mm: DS runtime exec
+    mm->>ds: https GET workflow instructions
+    mm->>ds: mount smb path
+    note over mm: workflow exec
+    note over mm: partition disk
+    ds->>mm: asr disk image to disk via smb mount
+    ds->>mm: set hostname and copy puppet to disk
+    note over mm: bless, reboot
+    note over mm: exec ds_finalize.sh
+    note over mm: reboot & run puppet
