@@ -142,7 +142,7 @@ jwatkins@mozilla.com
 ### How it all ties together
 @snapend
 
-![Image-Relative](assets/img/mermaid-diagram-20181128124342.svg)
+![Image-Relative](assets/img/mermaid-diagram-20181128124342.png)
 
 ---
 @title[Recorded Demo]
