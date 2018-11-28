@@ -138,11 +138,12 @@ jwatkins@mozilla.com
 
 ---
 @title[How it all ties together]
-@snap[north headline]
+@snap[center headline]
 ### How it all ties together
 @snapend
 
-![Image-Relative](assets/img/mermaid-diagram-20181128124342.png)
+
++++?image=assets/img/mermaid-diagram-20181128124342.png
 
 ---
 @title[Recorded Demo]
