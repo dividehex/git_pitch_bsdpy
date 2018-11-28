@@ -49,7 +49,7 @@ jwatkins@mozilla.com
 @ulend
 @snapend
 
-@snap[east]
+@snap[east sidebar]
 ![Image-Relative](assets/img/ds_screenshot.png)
 @snapend
 
