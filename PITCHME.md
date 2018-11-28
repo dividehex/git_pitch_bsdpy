@@ -55,7 +55,7 @@ jwatkins@mozilla.com
 [http://www.deploystudio.com](http://www.deploystudio.com)
 @snapend
 
-+++
+---
 @title[DeployStudio kinda sucks]
 @snap[north headline]
 ### DeployStudio kinda sucks
@@ -69,6 +69,7 @@ jwatkins@mozilla.com
 - I've had to debug and hack it on more than one occasion
 - There are alternatives but for now it does work
 @ulend
+@fa[arrow-down]
 @snapend
 
 +++?image=assets/img/ds_screenshot.png
@@ -85,16 +86,16 @@ jwatkins@mozilla.com
 - Official Apple application for providing all sorts of server functions to MacOS
 - eg. httpd, mail, etc...
 - Important to us, it provides BSDP service
-- Downloadable from the App Store...
+- Downloadable from the App Store
 - ... for $19.99
 - there are alternatives for providing BSDP service
 @ulend
 @snapend
 
-+++
-@title[Apple Server App]
+---
+@title[Apple Server App kinda sucks also]
 @snap[north headline]
-### Apple Server App kinda sucks too
+### Apple Server App kinda sucks also
 @snapend
 @snap[west bullets]
 @ul
@@ -104,6 +105,7 @@ jwatkins@mozilla.com
 - Sometimes it crashes
 - It's an official Apple app so it must have good reviews on the app store, right?!?
 @ulend
+@fa[arrow-down]
 @snapend
 
 @snap[south refline]
@@ -141,6 +143,8 @@ jwatkins@mozilla.com
 @snap[center headline]
 ### How it all ties together
 @snapend
+
+@fa[arrow-down]
 
 +++?image=assets/img/mermaid-diagram-20181128124342.png&size=contain&position=center&color=#ffffff
 @title[Sequence Diagram]
