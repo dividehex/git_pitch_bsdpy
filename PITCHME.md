@@ -142,7 +142,7 @@ jwatkins@mozilla.com
 ### How it all ties together
 @snapend
 
-+++?image=assets/img/mermaid-diagram-20181128124342.png&size=80% auto&position=center&color=#ffffff
++++?image=assets/img/mermaid-diagram-20181128124342.png&size=contain&position=center&color=#ffffff
 @title[Sequence Diagram]
 
 
