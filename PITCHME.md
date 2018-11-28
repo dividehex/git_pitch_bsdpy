@@ -50,8 +50,24 @@ jwatkins@mozilla.com
 @ulend
 @snapend
 
-@snap[south doclink]
+@snap[south]
 [http://www.deploystudio.com](http://www.deploystudio.com)
+@snapend
+
++++
+@title[Deploystudio kinda sucks]
+@snap[north]
+### Deploystudio kinda sucks
+@snapend
+
+@snap[east]
+@ul
+- Documentation = NULL
+- Freeware; not opensource
+- MacOS version support is always behind
+- I've had to debug and hack it on more than one occasion
+- There are alternatives but for now it does work
+@ulend
 @snapend
 
 +++?image=assets/img/ds_screenshot.png
