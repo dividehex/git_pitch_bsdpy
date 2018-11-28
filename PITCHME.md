@@ -20,7 +20,7 @@ jwatkins@mozilla.com
 ### What is BSDP?
 @snapend
 
-@snap[west]
+@snap[west bullets]
 @ul
  - BSDP = Boot Service Discovery Protocol
  - aka Netboot aka Netinstall
@@ -42,7 +42,7 @@ jwatkins@mozilla.com
 ### DeployStudio
 @snapend
 
-@snap[west]
+@snap[west bullets]
 @ul
 - Server application for image deployment and configuration of MacOS
 - Primarily used to push disk images to Mac Minis
@@ -61,7 +61,7 @@ jwatkins@mozilla.com
 ### DeployStudio kinda sucks
 @snapend
 
-@snap[east]
+@snap[west bullets]
 @ul
 - Documentation = NULL
 - Freeware; not opensource
@@ -80,7 +80,7 @@ jwatkins@mozilla.com
 ### Apple Server App
 @snapend
 
-@snap[east]
+@snap[west bullets]
 @ul
 - Official Apple application for providing all sorts of server functions to MacOS
 - eg. httpd, mail, etc...
@@ -96,7 +96,7 @@ jwatkins@mozilla.com
 @snap[north headline]
 ### Apple Server App kinda sucks too
 @snapend
-@snap[east]
+@snap[west bullets]
 @ul
 - Apple only supports the app on the current MacOS version
 - Total blackbox; hacking required to enable logging and difficult to debug
@@ -122,7 +122,7 @@ jwatkins@mozilla.com
 @snapend
 
 @snapend
-@snap[east]
+@snap[west bullets]
 @ul
 - Opensource, python implementation of the BSDP service
 - Can run on linux and is Dockerized
