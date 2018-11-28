@@ -101,7 +101,6 @@ jwatkins@mozilla.com
 - Apple only supports the app on the current MacOS version
 - Total blackbox; hacking required to enable logging and difficult to debug
 - It requires MacOS which requires hardware
-- No HA
 - Sometimes it crashes
 - It's an official Apple app so it must have good reviews on the app store, right?!?
 @ulend
