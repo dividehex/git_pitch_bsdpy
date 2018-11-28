@@ -36,6 +36,28 @@ jwatkins@mozilla.com
 ![Image-Relative](assets/img/BSDP_exchange.PNG)
 
 ---
+@title[What is Deploystudio]
+@snap[north]
+### Deploy Studio
+@snapend
+
+@snap[east]
+@ul
+- test1
+- test2
+- test3
+@ulend
+@snapend
+
+@snap[west]
+IMAGE
+@snapend
+
+@snap[south doclink]
+[http://www.deploystudio.com](http://www.deploystudio.com)
+@snapend
+
+---
 @title[What is BSDPy?]
 ### What is BSDP@color[#ff0000](y)?
 
@@ -52,10 +74,6 @@ List of reasons to switch
 +++?image=assets/img/apple_server_app_store.png
 +++?image=assets/img/apple_server_app_store.png
 # @color[#ff0000](GOOD JOB, APPLE!)
-
----
-@title[What is Deploystudio]
-What is Deploy Studio?
 
 ---
 @title[How it all ties together]
