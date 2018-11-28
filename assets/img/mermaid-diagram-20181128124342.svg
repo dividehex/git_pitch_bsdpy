@@ -1,0 +1,350 @@
+<svg id="mermaid-1543437755640" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:1250px;" viewBox="-50 -10 1250 1065"><style>
+
+
+#mermaid-1543437755640 .label {
+  font-family: 'trebuchet ms', verdana, arial;
+  color: #333; }
+
+#mermaid-1543437755640 .node rect,
+#mermaid-1543437755640 .node circle,
+#mermaid-1543437755640 .node ellipse,
+#mermaid-1543437755640 .node polygon {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1px; }
+
+#mermaid-1543437755640 .node.clickable {
+  cursor: pointer; }
+
+#mermaid-1543437755640 .arrowheadPath {
+  fill: #333333; }
+
+#mermaid-1543437755640 .edgePath .path {
+  stroke: #333333;
+  stroke-width: 1.5px; }
+
+#mermaid-1543437755640 .edgeLabel {
+  background-color: #e8e8e8; }
+
+#mermaid-1543437755640 .cluster rect {
+  fill: #ffffde !important;
+  stroke: #aaaa33 !important;
+  stroke-width: 1px !important; }
+
+#mermaid-1543437755640 .cluster text {
+  fill: #333; }
+
+#mermaid-1543437755640 div.mermaidTooltip {
+  position: absolute;
+  text-align: center;
+  max-width: 200px;
+  padding: 2px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-size: 12px;
+  background: #ffffde;
+  border: 1px solid #aaaa33;
+  border-radius: 2px;
+  pointer-events: none;
+  z-index: 100; }
+
+#mermaid-1543437755640 .actor {
+  stroke: #CCCCFF;
+  fill: #ECECFF; }
+
+#mermaid-1543437755640 text.actor {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1543437755640 .actor-line {
+  stroke: grey; }
+
+#mermaid-1543437755640 .messageLine0 {
+  stroke-width: 1.5;
+  stroke-dasharray: '2 2';
+  marker-end: 'url(#arrowhead)';
+  stroke: #333; }
+
+#mermaid-1543437755640 .messageLine1 {
+  stroke-width: 1.5;
+  stroke-dasharray: '2 2';
+  stroke: #333; }
+
+#mermaid-1543437755640 #arrowhead {
+  fill: #333; }
+
+#mermaid-1543437755640 #crosshead path {
+  fill: #333 !important;
+  stroke: #333 !important; }
+
+#mermaid-1543437755640 .messageText {
+  fill: #333;
+  stroke: none; }
+
+#mermaid-1543437755640 .labelBox {
+  stroke: #CCCCFF;
+  fill: #ECECFF; }
+
+#mermaid-1543437755640 .labelText {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1543437755640 .loopText {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1543437755640 .loopLine {
+  stroke-width: 2;
+  stroke-dasharray: '2 2';
+  marker-end: 'url(#arrowhead)';
+  stroke: #CCCCFF; }
+
+#mermaid-1543437755640 .note {
+  stroke: #aaaa33;
+  fill: #fff5ad; }
+
+#mermaid-1543437755640 .noteText {
+  fill: black;
+  stroke: none;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-size: 14px; }
+
+
+#mermaid-1543437755640 .section {
+  stroke: none;
+  opacity: 0.2; }
+
+#mermaid-1543437755640 .section0 {
+  fill: rgba(102, 102, 255, 0.49); }
+
+#mermaid-1543437755640 .section2 {
+  fill: #fff400; }
+
+#mermaid-1543437755640 .section1,
+#mermaid-1543437755640 .section3 {
+  fill: white;
+  opacity: 0.2; }
+
+#mermaid-1543437755640 .sectionTitle0 {
+  fill: #333; }
+
+#mermaid-1543437755640 .sectionTitle1 {
+  fill: #333; }
+
+#mermaid-1543437755640 .sectionTitle2 {
+  fill: #333; }
+
+#mermaid-1543437755640 .sectionTitle3 {
+  fill: #333; }
+
+#mermaid-1543437755640 .sectionTitle {
+  text-anchor: start;
+  font-size: 11px;
+  text-height: 14px; }
+
+
+#mermaid-1543437755640 .grid .tick {
+  stroke: lightgrey;
+  opacity: 0.3;
+  shape-rendering: crispEdges; }
+
+#mermaid-1543437755640 .grid path {
+  stroke-width: 0; }
+
+
+#mermaid-1543437755640 .today {
+  fill: none;
+  stroke: red;
+  stroke-width: 2px; }
+
+
+
+#mermaid-1543437755640 .task {
+  stroke-width: 2; }
+
+#mermaid-1543437755640 .taskText {
+  text-anchor: middle;
+  font-size: 11px; }
+
+#mermaid-1543437755640 .taskTextOutsideRight {
+  fill: black;
+  text-anchor: start;
+  font-size: 11px; }
+
+#mermaid-1543437755640 .taskTextOutsideLeft {
+  fill: black;
+  text-anchor: end;
+  font-size: 11px; }
+
+
+#mermaid-1543437755640 .taskText0,
+#mermaid-1543437755640 .taskText1,
+#mermaid-1543437755640 .taskText2,
+#mermaid-1543437755640 .taskText3 {
+  fill: white; }
+
+#mermaid-1543437755640 .task0,
+#mermaid-1543437755640 .task1,
+#mermaid-1543437755640 .task2,
+#mermaid-1543437755640 .task3 {
+  fill: #8a90dd;
+  stroke: #534fbc; }
+
+#mermaid-1543437755640 .taskTextOutside0,
+#mermaid-1543437755640 .taskTextOutside2 {
+  fill: black; }
+
+#mermaid-1543437755640 .taskTextOutside1,
+#mermaid-1543437755640 .taskTextOutside3 {
+  fill: black; }
+
+
+#mermaid-1543437755640 .active0,
+#mermaid-1543437755640 .active1,
+#mermaid-1543437755640 .active2,
+#mermaid-1543437755640 .active3 {
+  fill: #bfc7ff;
+  stroke: #534fbc; }
+
+#mermaid-1543437755640 .activeText0,
+#mermaid-1543437755640 .activeText1,
+#mermaid-1543437755640 .activeText2,
+#mermaid-1543437755640 .activeText3 {
+  fill: black !important; }
+
+
+#mermaid-1543437755640 .done0,
+#mermaid-1543437755640 .done1,
+#mermaid-1543437755640 .done2,
+#mermaid-1543437755640 .done3 {
+  stroke: grey;
+  fill: lightgrey;
+  stroke-width: 2; }
+
+#mermaid-1543437755640 .doneText0,
+#mermaid-1543437755640 .doneText1,
+#mermaid-1543437755640 .doneText2,
+#mermaid-1543437755640 .doneText3 {
+  fill: black !important; }
+
+
+#mermaid-1543437755640 .crit0,
+#mermaid-1543437755640 .crit1,
+#mermaid-1543437755640 .crit2,
+#mermaid-1543437755640 .crit3 {
+  stroke: #ff8888;
+  fill: red;
+  stroke-width: 2; }
+
+#mermaid-1543437755640 .activeCrit0,
+#mermaid-1543437755640 .activeCrit1,
+#mermaid-1543437755640 .activeCrit2,
+#mermaid-1543437755640 .activeCrit3 {
+  stroke: #ff8888;
+  fill: #bfc7ff;
+  stroke-width: 2; }
+
+#mermaid-1543437755640 .doneCrit0,
+#mermaid-1543437755640 .doneCrit1,
+#mermaid-1543437755640 .doneCrit2,
+#mermaid-1543437755640 .doneCrit3 {
+  stroke: #ff8888;
+  fill: lightgrey;
+  stroke-width: 2;
+  cursor: pointer;
+  shape-rendering: crispEdges; }
+
+#mermaid-1543437755640 .doneCritText0,
+#mermaid-1543437755640 .doneCritText1,
+#mermaid-1543437755640 .doneCritText2,
+#mermaid-1543437755640 .doneCritText3 {
+  fill: black !important; }
+
+#mermaid-1543437755640 .activeCritText0,
+#mermaid-1543437755640 .activeCritText1,
+#mermaid-1543437755640 .activeCritText2,
+#mermaid-1543437755640 .activeCritText3 {
+  fill: black !important; }
+
+#mermaid-1543437755640 .titleText {
+  text-anchor: middle;
+  font-size: 18px;
+  fill: black; }
+
+#mermaid-1543437755640 g.classGroup text {
+  fill: #9370DB;
+  stroke: none;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-size: 10px; }
+
+#mermaid-1543437755640 g.classGroup rect {
+  fill: #ECECFF;
+  stroke: #9370DB; }
+
+#mermaid-1543437755640 g.classGroup line {
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1543437755640 .classLabel .box {
+  stroke: none;
+  stroke-width: 0;
+  fill: #ECECFF;
+  opacity: 0.5; }
+
+#mermaid-1543437755640 .classLabel .label {
+  fill: #9370DB;
+  font-size: 10px; }
+
+#mermaid-1543437755640 .relation {
+  stroke: #9370DB;
+  stroke-width: 1;
+  fill: none; }
+
+#mermaid-1543437755640 #compositionStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1543437755640 #compositionEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1543437755640 #aggregationStart {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1543437755640 #aggregationEnd {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1543437755640 #dependencyStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1543437755640 #dependencyEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1543437755640 #extensionStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1543437755640 #extensionEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1543437755640 .commit-id,
+#mermaid-1543437755640 .commit-msg,
+#mermaid-1543437755640 .branch-label {
+  fill: lightgrey;
+  color: lightgrey; }
+</style><style>#mermaid-1543437755640 {
+    color: rgba(0, 0, 0, 0.65);
+    font: ;
+  }</style><g></g><g><line id="actor8413" x1="75" y1="5" x2="75" y2="1054" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="75" dy="0">Mac Mini</tspan></text></g><g><line id="actor8414" x1="275" y1="5" x2="275" y2="1054" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="200" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="32.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="275" dy="0">DHCP Service</tspan></text></g><g><line id="actor8415" x1="475" y1="5" x2="475" y2="1054" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="400" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="475" y="32.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="475" dy="0">BSDPy Service</tspan></text></g><g><line id="actor8416" x1="675" y1="5" x2="675" y2="1054" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="600" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="675" y="32.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="675" dy="0">TFTPd Service</tspan></text></g><g><line id="actor8417" x1="875" y1="5" x2="875" y2="1054" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="800" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="875" y="32.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="875" dy="0">HTTP Service</tspan></text></g><g><line id="actor8418" x1="1075" y1="5" x2="1075" y2="1054" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="1000" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="1075" y="32.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="1075" dy="0">DeployStudio (https)</tspan></text></g><defs><marker id="arrowhead" refX="5" refY="2" markerWidth="6" markerHeight="4" orient="auto"><path d="M 0,0 V 4 L6,2 Z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" style="stroke-dasharray: 0, 0;" stroke-width="1px" d="M 9,2 V 6 L16,4 Z"></path><path fill="none" stroke="#000000" style="stroke-dasharray: 0, 0;" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7"></path></marker></defs><g><rect x="0" y="75" fill="#EDF2AE" stroke="#666" width="150" height="36" rx="0" ry="0" class="note"></rect><text x="-4" y="99" fill="black" class="noteText"><tspan x="16" fill="black">bless cmd, reboot</tspan></text></g><g><text x="175" y="139" style="text-anchor: middle;" class="messageText">dhcp discover</text><line x1="75" y1="146" x2="275" y2="146" style="stroke-dasharray: 3, 3; fill: none;" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)"></line></g><g><text x="175" y="174" style="text-anchor: middle;" class="messageText">dhcp offer</text><line x1="275" y1="181" x2="75" y2="181" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><text x="175" y="209" style="text-anchor: middle;" class="messageText">dhcp request</text><line x1="75" y1="216" x2="275" y2="216" style="stroke-dasharray: 3, 3; fill: none;" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)"></line></g><g><text x="175" y="244" style="text-anchor: middle;" class="messageText">dhcp ack</text><line x1="275" y1="251" x2="75" y2="251" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><text x="275" y="279" style="text-anchor: middle;" class="messageText">bsdp inform [list]</text><line x1="75" y1="286" x2="475" y2="286" style="stroke-dasharray: 3, 3; fill: none;" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)"></line></g><g><text x="275" y="314" style="text-anchor: middle;" class="messageText">bsdp ack [list[</text><line x1="475" y1="321" x2="75" y2="321" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><text x="275" y="349" style="text-anchor: middle;" class="messageText">bsdp inform [select]</text><line x1="75" y1="356" x2="475" y2="356" style="stroke-dasharray: 3, 3; fill: none;" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)"></line></g><g><text x="275" y="384" style="text-anchor: middle;" class="messageText">bsdp ack [select]</text><line x1="475" y1="391" x2="75" y2="391" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><rect x="0" y="401" fill="#EDF2AE" stroke="#666" width="150" height="36" rx="0" ry="0" class="note"></rect><text x="-4" y="425" fill="black" class="noteText"><tspan x="16" fill="black">NBI is now selected</tspan></text></g><g><text x="375" y="465" style="text-anchor: middle;" class="messageText">tfp GET booter, PlatformSupport.plist, and kernelcache</text><line x1="75" y1="472" x2="675" y2="472" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><rect x="0" y="482" fill="#EDF2AE" stroke="#666" width="150" height="36" rx="0" ry="0" class="note"></rect><text x="-4" y="506" fill="black" class="noteText"><tspan x="16" fill="black">kernel booting</tspan></text></g><g><text x="475" y="546" style="text-anchor: middle;" class="messageText">http GET Netinstall.dmg</text><line x1="75" y1="553" x2="875" y2="553" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><rect x="0" y="563" fill="#EDF2AE" stroke="#666" width="150" height="36" rx="0" ry="0" class="note"></rect><text x="-4" y="587" fill="black" class="noteText"><tspan x="16" fill="black">DS runtime exec</tspan></text></g><g><text x="575" y="627" style="text-anchor: middle;" class="messageText">https GET workflow instructions</text><line x1="75" y1="634" x2="1075" y2="634" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><text x="575" y="662" style="text-anchor: middle;" class="messageText">mount smb path</text><line x1="75" y1="669" x2="1075" y2="669" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><rect x="0" y="679" fill="#EDF2AE" stroke="#666" width="150" height="36" rx="0" ry="0" class="note"></rect><text x="-4" y="703" fill="black" class="noteText"><tspan x="16" fill="black">workflow exec</tspan></text></g><g><rect x="0" y="725" fill="#EDF2AE" stroke="#666" width="150" height="36" rx="0" ry="0" class="note"></rect><text x="-4" y="749" fill="black" class="noteText"><tspan x="16" fill="black">partition disk</tspan></text></g><g><text x="575" y="789" style="text-anchor: middle;" class="messageText">asr disk image to disk via smb mount</text><line x1="1075" y1="796" x2="75" y2="796" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><text x="575" y="824" style="text-anchor: middle;" class="messageText">set hostname and copy puppet to disk</text><line x1="1075" y1="831" x2="75" y2="831" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;" marker-end="url(#arrowhead)"></line></g><g><rect x="0" y="841" fill="#EDF2AE" stroke="#666" width="150" height="36" rx="0" ry="0" class="note"></rect><text x="-4" y="865" fill="black" class="noteText"><tspan x="16" fill="black">bless, reboot</tspan></text></g><g><rect x="0" y="887" fill="#EDF2AE" stroke="#666" width="150" height="36" rx="0" ry="0" class="note"></rect><text x="-4" y="911" fill="black" class="noteText"><tspan x="16" fill="black">exec ds_finalize.sh</tspan></text></g><g><rect x="0" y="933" fill="#EDF2AE" stroke="#666" width="150" height="36" rx="0" ry="0" class="note"></rect><text x="-4" y="957" fill="black" class="noteText"><tspan x="16" fill="black">reboot &amp; run puppet</tspan></text></g><g><rect x="0" y="989" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="1021.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="75" dy="0">Mac Mini</tspan></text></g><g><rect x="200" y="989" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="1021.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="275" dy="0">DHCP Service</tspan></text></g><g><rect x="400" y="989" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="475" y="1021.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="475" dy="0">BSDPy Service</tspan></text></g><g><rect x="600" y="989" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="675" y="1021.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="675" dy="0">TFTPd Service</tspan></text></g><g><rect x="800" y="989" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="875" y="1021.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="875" dy="0">HTTP Service</tspan></text></g><g><rect x="1000" y="989" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="1075" y="1021.5" style="text-anchor: middle;" dominant-baseline="central" alignment-baseline="central" class="actor"><tspan x="1075" dy="0">DeployStudio (https)</tspan></text></g></svg>
