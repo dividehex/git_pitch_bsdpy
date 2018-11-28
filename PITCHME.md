@@ -148,8 +148,7 @@ jwatkins@mozilla.com
 
 ---
 @title[Recorded Demo]
-Demo
-<br>
+### Recorded Demo
 ![demo-video](https://player.vimeo.com/video/303137935)
 
 ---
