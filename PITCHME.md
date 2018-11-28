@@ -41,7 +41,7 @@ jwatkins@mozilla.com
 ### Deploy Studio
 @snapend
 
-@snap[east]
+@snap[west]
 @ul
 - test1
 - test2
@@ -49,8 +49,8 @@ jwatkins@mozilla.com
 @ulend
 @snapend
 
-@snap[west]
-![Image-Relative](assets/img/ds_screenshotjpg)
+@snap[east]
+![Image-Relative](assets/img/ds_screenshot.png)
 @snapend
 
 @snap[south doclink]
