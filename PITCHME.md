@@ -142,8 +142,9 @@ jwatkins@mozilla.com
 ### How it all ties together
 @snapend
 
-
-+++?image=assets/img/mermaid-diagram-20181128124342.png
++++
+@title[Sequence Diagram]
+![Image-Relative](assets/img/mermaid-diagram-20181128124342.png)
 
 ---
 @title[Recorded Demo]
