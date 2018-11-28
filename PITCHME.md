@@ -75,6 +75,10 @@ jwatkins@mozilla.com
 @fa[arrow-down]
 @snapend
 
+@snap[south refline]
+[http://www.deploystudio.com](http://www.deploystudio.com)
+@snapend
+
 +++?image=assets/img/ds_screenshot.png
 @title[Deploystudio Screenshot]
 
@@ -93,6 +97,10 @@ jwatkins@mozilla.com
 - ... for $19.99
 - there are alternatives for providing BSDP service
 @ulend
+@snapend
+
+@snap[south refline]
+[https://itunes.apple.com/us/app/os-x-server/id883878097](https://itunes.apple.com/us/app/os-x-server/id883878097)
 @snapend
 
 ---
