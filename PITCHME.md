@@ -37,7 +37,7 @@ jwatkins@mozilla.com
 
 ---
 @title[What is DeployStudio]
-@snap[north]
+@snap[north headline]
 ### DeployStudio
 @snapend
 
@@ -55,9 +55,9 @@ jwatkins@mozilla.com
 @snapend
 
 +++
-@title[Deploystudio kinda sucks]
-@snap[north]
-### Deploystudio kinda sucks
+@title[DeployStudio kinda sucks]
+@snap[north headline]
+### DeployStudio kinda sucks
 @snapend
 
 @snap[east]

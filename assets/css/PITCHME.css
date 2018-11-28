@@ -1,0 +1,10 @@
+.sidebar img {
+  width: 25%;
+}
+
+.headline {
+  width: 80%;
+  font-weight: bold;
+  font-size: 2em !important;
+  font-variant: small-caps !important;
+}

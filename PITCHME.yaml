@@ -1,0 +1,5 @@
+theme-override : assets/css/PITCHME.css
+
+transition : none
+
+code-line-numbers : true
