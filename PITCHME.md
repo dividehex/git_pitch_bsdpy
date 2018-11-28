@@ -94,7 +94,7 @@ jwatkins@mozilla.com
 +++
 @title[Apple Server App]
 @snap[north headline]
-### Reason to stop using Apple Server App
+### Apple Server App kinda sucks too
 @snapend
 @snap[east]
 @ul
