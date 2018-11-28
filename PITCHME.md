@@ -144,7 +144,9 @@ jwatkins@mozilla.com
 
 +++
 @title[Sequence Diagram]
+@snap[north]
 ![Image-Relative](assets/img/mermaid-diagram-20181128124342.png)
+@snapend
 
 ---
 @title[Recorded Demo]
