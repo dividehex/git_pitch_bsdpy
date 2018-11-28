@@ -36,16 +36,17 @@ jwatkins@mozilla.com
 ![Image-Relative](assets/img/BSDP_exchange.PNG)
 
 ---
-@title[What is Deploystudio]
+@title[What is DeployStudio]
 @snap[north]
-### Deploy Studio
+### DeployStudio
 @snapend
 
 @snap[west]
 @ul
-- test1
-- test2
-- test3
+- Server application for image deployment and configuration of MacOS
+- Primarily used to push disk images to Mac Minis
+- Workflows are highly customizable
+- Can also be used to do standalone firmware upgrades
 @ulend
 @snapend
 
@@ -55,6 +56,9 @@ jwatkins@mozilla.com
 
 +++
 @title[Deploystudio Screenshot]
+@snap[north]
+### DeployStudio Screenshot
+@snapend
 ![Image-Relative](assets/img/ds_screenshot.png)
 
 
