@@ -67,6 +67,7 @@ jwatkins@mozilla.com
 - Freeware; not opensource
 - MacOS version support is always behind
 - I've had to debug and hack it on more than one occasion
+- GUI application requires VNC to manage
 - There are alternatives but for now it does work
 @ulend
 @snapend
