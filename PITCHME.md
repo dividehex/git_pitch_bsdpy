@@ -74,6 +74,41 @@ jwatkins@mozilla.com
 @title[Deploystudio Screenshot]
 
 ---
+@title[Apple Server App]
+@snap[north headline]
+### Apple Server App
+@snapend
+
+@snap[east]
+@ul
+- Official Apple application for providing all sorts of server functions to MacOS
+- Important to us, it provides BSDP service aka Netboot aka Netinstall
+- Downloadable from the App Store...
+- ... for $19.99
+- there are alternatives for providing BSDP service
+@ulend
+@snapend
+
++++
+@title[Apple Server App]
+@snap[north headline]
+### Reason to stop using Apple Server App
+@snapend
+@snap[east]
+@ul
+- Apple only supports the app on the current MacOS version
+- Total blackbox; hacking required to enable logging and difficult to debug
+- Sometimes it crashes
+- It's an official Apple app so it must have good reviews on the app store, right?!?
+@ulend
+@snapend
+
++++?image=assets/img/apple_server_app_store.png
++++?image=assets/img/apple_server_app_store.png
+# @color[#ff0000](GOOD JOB, APPLE!)
+
+
+---
 @title[What is BSDPy?]
 ### What is BSDP@color[#ff0000](y)?
 
@@ -87,9 +122,6 @@ List of reasons to switch
 <br>
 @fa[arrow-down]
 
-+++?image=assets/img/apple_server_app_store.png
-+++?image=assets/img/apple_server_app_store.png
-# @color[#ff0000](GOOD JOB, APPLE!)
 
 ---
 @title[How it all ties together]
