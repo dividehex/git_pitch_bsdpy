@@ -14,6 +14,20 @@ jwatkins@mozilla.com
 @snapend
 
 ---
+@title[Tools we use]
+@snap[north headline]
+### Tools we use
+@snapend
+
+@snap[west bullets]
+@ul
+ - Deploystudio
+ - Apple Server App
+ - BSDPy (will replace Apple Server App)
+@ulend
+@snapend
+
+---
 @title[What is BSDP?]
 
 @snap[north headline]
