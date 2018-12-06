@@ -185,6 +185,7 @@ jwatkins@mozilla.com
 ---
 @title[Recorded Demo]
 ### Recorded Demo
+#### (BSDPy, DeployStudio, Mac being imaged)
 ![demo-video](https://player.vimeo.com/video/303137935)
 
 ---
